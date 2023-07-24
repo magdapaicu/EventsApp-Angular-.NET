@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "At0lxlThoIwIqViqsxIweax16e47WvNcnMxN/Asz1fY=",
+  "Source": "NessWebApi",
+  "BasePath": "_content/NessWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NessWebApi\\wwwroot",
+      "Source": "NessWebApi",
+      "ContentRoot": "C:\\Users\\Magda\\Desktop\\EventsApp-FullStack\\EventsApp-Backend\\NessWebApi\\wwwroot\\",
+      "BasePath": "_content/NessWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Magda\\Desktop\\EventsApp-FullStack\\EventsApp-Backend\\NessWebApi\\wwwroot\\uploads\\a1191b90-b5b9-4afa-8f04-803b06ce0540_me&bro.png",
+      "SourceId": "NessWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Magda\\Desktop\\EventsApp-FullStack\\EventsApp-Backend\\NessWebApi\\wwwroot\\",
+      "BasePath": "_content/NessWebApi",
+      "RelativePath": "uploads/a1191b90-b5b9-4afa-8f04-803b06ce0540_me&bro.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a1191b90-b5b9-4afa-8f04-803b06ce0540_me&bro.png"
+    }
+  ]
+}
